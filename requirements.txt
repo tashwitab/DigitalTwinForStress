@@ -1,0 +1,13 @@
+streamlit
+pandas
+scikit-learn
+altair
+numpy
+time
+matplotlib
+scipy
+LogisticRegression
+LabelEncoder
+train_test_split
+RandomForestClassifier
+
