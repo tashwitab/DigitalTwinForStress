@@ -1,13 +1,6 @@
 streamlit
 pandas
-scikit-learn
-altair
 numpy
-time
-matplotlib
+scikit-learn
 scipy
-LogisticRegression
-LabelEncoder
-train_test_split
-RandomForestClassifier
-
+altair
